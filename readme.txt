@@ -1,5 +1,7 @@
-class diagram is in the ClassDiagram folder
+This repository is for SM503 Object Oriented Design and Development Assignment 3 or 4 of METU Software Management Master program.
+Everyone is free to use, rewrite, send, evaluate, or whatever desired. If I can find time, I will edit it for assignment's all requirements. Sorry for no JavaDoc comments and a bit dirty writing.  
 
+class diagram is in the ClassDiagram folder
 executable is in the Executable folder
 
 project was created by 
